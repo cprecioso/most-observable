@@ -667,8 +667,8 @@
     babel-plugin-implicit-function "0.1.1"
 
 "@lectro/core@^1.1.2-alpha-21":
-  version "1.1.2-alpha-21"
-  resolved "https://registry.yarnpkg.com/@lectro/core/-/core-1.1.2-alpha-21.tgz#721ae070bc5cd4b7d34894a7525e8dcaa4d57ba7"
+  version "1.1.2-alpha-24"
+  resolved "https://registry.yarnpkg.com/@lectro/core/-/core-1.1.2-alpha-24.tgz#a8f0ac31336f0debea10253719c8896d8e98e613"
   dependencies:
     "@babel/core" "7.0.0"
     "@lectro/babel-preset-lectro" "1.1.2-beta-1"
